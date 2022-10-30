@@ -1,3 +1,7 @@
+/*
+Covid 19 Data Exploration 
+*/
+
 SELECT *  FROM `kagglefirst-step1717.CovidProject.CovidDeaths` 
 ORDER BY 3,4
 
